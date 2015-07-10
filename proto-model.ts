@@ -1,23 +1,5 @@
 /**
- * World 404 is a world that is no longer safe. A world that used to exist is no longer there.
- * The world is post-apocalyptic. A world not safe for humans. But to survive, humanics have 
- * been created by humans in underworld bunkers and off-world space ships. 
- * 
- * Thier purpose? To keep the human race alive. Humanics are controlled by programmers, who are 
- * underground where it is safe from the harsh environments above. They can control humanics
- * through writing logic that they beam to their humanics. 
- * 
- * They use computer displays to see what their humanics have discovered and collected. The 
- * computer display is a graph that shows the discovered map area the humanics have uncovered.
- * 
- * displaying a break down of what nodes they have visitied, what area they are in (if visited all nodes in an area).
- * If their huamnic is running low on energy or needs support from other humanics in their faction.
- * 
- * The world is not the same world anymore, with a fight for survival, nobody can be trusted. It's kill or be killed.
- * Defend your faction. 
- * 
- * A tick based game with various options enable for skirmishes, or long running MMO styled games.
- * 
+ * World 404 Sandbox
  */
 module World404 {
 
